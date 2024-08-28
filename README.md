@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+- Name: Miguel
+- Age: 15 Years old
+- Nationality: Brazil
+- My pronouns: He/Him
+- I’m currently learning Javascript
 <!--
 **Miguel10k/Miguel10k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
